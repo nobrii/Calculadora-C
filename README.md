@@ -1,3 +1,8 @@
+# Calculadora em C
+
+Projeto simples de calculadora usando funções.
+
+## Código
 ```C
 #include <stdio.h>
 #include <stdlib.h>
